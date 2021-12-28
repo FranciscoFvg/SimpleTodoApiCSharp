@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\EnivixLabs01\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\EnivixLabs01\\.nuget\\packages"
+    ]
+  }
+}
